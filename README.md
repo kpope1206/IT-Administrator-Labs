@@ -87,3 +87,19 @@ A company has hired several new employees across multiple departments. As the IT
 
 ---
 
+## Screenshots
+
+### Organizational Unit Structure
+
+![OU Structure](screenshots/pic%20%232.png)
+
+### Security Groups
+
+![OU Structure](screenshots/pic%20%233.png)
+
+### User Acounts
+![OU Structure](screenshots/pic%20%234.png)
+
+### Group Memberships
+
+![OU Structure](screenshots/pic%20%235.png)
