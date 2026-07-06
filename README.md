@@ -13,22 +13,21 @@ This repository showcases hands-on IT administration projects that simulate real
 - DHCP
 - Group Policy
 - PowerShell
-- Windows 10
+- Windows 11
 
 ## Projects
 
-| Projects | Status |
-|--------------------|
-| Project 01 - User and Group Management | 
-| Project 02 - Shared Folder Permissions |
-| Project 03 - Password Reset and Account Lockout |
-| Project 04 - Group Policy Managemnet |
+- Project 01 - User and Group Management 
+- Project 02 - Shared Folder Permissions 
+- Project 03 - Password Reset and Account Lockout 
+- Project 04 - Group Policy Managemnet 
 
 ## Skills Demonstrated
 
--User Account Administration
--Organizational Unit (OU) Management
+- User Account Administration
+- Organizational Unit (OU) Management
 - Security Group Administration
+- Password Management
 - Windows Server Administration
-- Identity and Access Management (IAM)
+- Active Directory Administration
 - Technical Documentation
