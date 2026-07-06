@@ -91,15 +91,15 @@ A company has hired several new employees across multiple departments. As the IT
 
 ### Organizational Unit Structure
 
-![OU Structure](screenshots/01-ou-structure.png)
+![OU Structure](Project-01-User-and-Group-Management/screenshots/01-ou-structure.png)
 
 ### Security Groups
 
-![Security Groups](screenshots/02-security-groups.png)
+![Security Groups](Project-01-User-and-Group-Management/screenshots/02-security-groups.png)
 
 ### User Acounts
-![User Accounts](screenshots/03-user-accounts.png)
+![User Accounts](Project-01-User-and-Group-Management/screenshots/03-user-accounts.png)
 
 ### Group Memberships
 
-![Group Memberships](screenshots/04-group-memberships.png)
+![Group Memberships](Project-01-User-and-Group-Management/screenshots/04-group-memberships.png)
