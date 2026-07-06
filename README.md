@@ -51,6 +51,8 @@ A company has hired several new employees across multiple departments. As the IT
 - Windows Server 2022
 - Active Directory Domain Services (AD DS)
 - Active Directory Users and Computers (ADUC)
+- Windows 11 Client
+- Hypervisor: QEMU/KVM
 
 ----
 
@@ -103,3 +105,7 @@ A company has hired several new employees across multiple departments. As the IT
 ### Group Memberships
 
 ![Group Memberships](Project-01-User-and-Group-Management/screenshots/04-group-memberships.png)
+
+## Conclusion
+
+This project demosrtates core Active Directory administration skills including Organizational Unit (OU) design, user account creation, security group management, and group membership verification. These are common day-to-day responsibilities performed by Help Desk and Junior System Administrators in Windows environments.
